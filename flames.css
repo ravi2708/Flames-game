@@ -1,0 +1,36 @@
+body{
+	text-align:center;
+	font-size:50px;
+	background-image:url("images/birds.jpg");
+	height:100%;
+	width:100%;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:500px 500px;
+	background-color:#009999;
+}
+
+#urname{
+	font-size:18pt;
+	height:50px;
+	width:200px;
+}
+
+#othername{
+	font-size:18pt;
+	height:50px;
+	width:200px;
+}
+
+#button{
+	height:40px;
+	width:200px;
+}
+
+#form{
+	left:10%;
+	top:10%;
+	right:10%;
+	bottom:10%;
+	position:absolute;
+}
